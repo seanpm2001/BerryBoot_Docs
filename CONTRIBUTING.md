@@ -5,7 +5,7 @@
 
 Notice: This page is starting to be translated into various languages. Since I only know how to fluently speak English, I have to use a translation tool to make translations. As such, translations may be inaccurate. If you are a native speaker in one of the poorly translated languages and also have good knowledge of the English language, please help me by reporting any errors, giving an explanation to the error, and waiting for 4 more people who speak the same language to confirm the translation.
 
-I don't know of any good translation services not owned by Google (I have tried bing translate, and DeepL, but they don't meet my needs) so I used Google Translate for all non-English parts of this.
+I don't know of any good translation services not owned by Google (I have tried bing translate, and DeepL, but they don't meet my needs) so, I used Google Translate for all non-English parts of this.
 
 ***
 
